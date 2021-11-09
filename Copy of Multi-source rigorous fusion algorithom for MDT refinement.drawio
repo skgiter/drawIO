@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T15:00:06.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="Nr4HoMqH7e8INAgOuJJ_" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T15:00:19.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="k3mayPmHu9TEtbgDHV8Z" version="15.7.0" type="github">
   <diagram id="_5CkWuqMf3LJzgiGWqKs" name="Page-1">
     <mxGraphModel dx="1888" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
           <mxGeometry x="169" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cj0m6q7bYbMxQTCFhR2f-1" value="精密误差估计的MDT融合算法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="360" y="-85" width="311.5" height="25" as="geometry" />
+          <mxGeometry x="-101" y="-70" width="311.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Cj0m6q7bYbMxQTCFhR2f-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-331" y="920" width="1135" height="160" as="geometry" />
