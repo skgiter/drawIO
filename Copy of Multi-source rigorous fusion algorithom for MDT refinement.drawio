@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T14:48:41.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="mM7FyNVO-dTdOw5EH8MW" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T14:51:51.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="_xvXc9Ypb_tN2ZBu2N9t" version="15.7.0" type="github">
   <diagram id="_5CkWuqMf3LJzgiGWqKs" name="Page-1">
     <mxGraphModel dx="1888" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -287,7 +287,7 @@
         <mxCell id="ptCExBpaNztX0r3IuxcA-34" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 20px; font-style: normal; font-weight: 700; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;验潮站数据精度验证&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-150" y="633" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ptCExBpaNztX0r3IuxcA-37" value="yi&#39;jie" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="ptCExBpaNztX0r3IuxcA-37" value="一阶微分平滑" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="173" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
